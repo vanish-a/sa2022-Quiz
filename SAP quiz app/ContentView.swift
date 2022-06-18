@@ -95,7 +95,7 @@ struct ContentView: View {
                             Text(questions[currentQuestion].option3)
                         }
                         .padding(20)
-                        .background(.yellow)
+                        .background(.pink)
                         .foregroundColor(.white)
                         .cornerRadius(10)
                         
